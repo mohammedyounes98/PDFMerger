@@ -9,7 +9,7 @@ This is a simple offline Python tool to merge multiple PDF files into a single d
 - 100% offline – no internet or external services required
 - Built using Python and the `pypdf` library (v5+)
 
-## 🛠Requirements
+## Requirements
 
 - Python 3.7 or later
 - Dependencies:
